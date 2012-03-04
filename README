@@ -1,0 +1,5 @@
+Just a simple demonstration of a prime number finder
+
+Edit the MIN_NUMBER and MAX_NUMBER variables in the code.
+
+Example: ./prime.py 
